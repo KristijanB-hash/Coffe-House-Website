@@ -1,2 +1,2 @@
-# Coffe-House-Website
+# Coffee-House-Website
 Phone scalable website for all coffee lovers
